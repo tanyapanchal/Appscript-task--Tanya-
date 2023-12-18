@@ -1,0 +1,57 @@
+.container{
+    width: 100vw;
+    height:15rem ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+}
+.containerSection{
+    height: 15rem;
+    width: 38vw;
+    margin-left: 29rem;
+    margin-top: 4rem;
+   
+}
+h1{
+    font-size: 38px;
+    font-weight: 400;
+    word-spacing: 1rem;
+  
+}
+p{
+    font-size: 0.8rem;
+    line-height: 1.8;
+    margin-left: -1rem;
+    text-align: center;
+}
+@media screen and (max-width:780px){
+    .container{
+        width: 100vw;
+        height:5rem ;
+       
+    }
+    .containerSection{
+        height: 5rem;
+        width: 80vw;
+        margin-left: 4rem;
+        text-align: center;
+      
+    }
+    h1{
+        font-size: 20px;
+        font-weight: 500;
+        word-spacing: 1.5rem;
+        margin-left: -4rem;
+      
+    }
+    .lorem{
+        margin-top: 2px;
+        font-size: 13px;
+        margin-left: -1rem;
+        justify-content: center;
+        line-height: 1.5;
+    
+    }
+
+    
+
+}

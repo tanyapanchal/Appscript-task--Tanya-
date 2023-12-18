@@ -1,0 +1,85 @@
+.sideMenu{
+    width: 25vw;
+    height: 55rem;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 4rem;
+   
+}
+.customize{
+    height: 6rem;
+    width: 24vw;
+    font-weight: 500;
+    border-bottom: 1px solid rgb(180, 174, 174);
+    display: flex;
+    align-items: center;
+}
+.checkbox{
+    border:rgb(180, 174, 174) ;
+    border-radius: 0;
+}
+.sidemenuItem{
+  height: 6rem;
+  width: 24vw;
+  border-bottom: 1px solid rgb(180, 174, 174);
+}
+
+.heading{
+    font-size: 20px;
+    font-weight: 600;
+    display: flex;
+    justify-content: space-between;
+}
+p{
+    text-align: left;
+    font-size: 20px;
+    margin-left: 0.2rem;
+    margin-top: -1rem;
+}
+.down{
+    color:  rgb(180, 174, 174);
+    cursor: pointer;
+}
+
+@media screen and (max-width:780px){
+
+    .sideMenu{
+        width: 18vw;
+        height: 40rem;
+        display: flex;
+        margin-left: 1rem;
+       
+    }
+    .customize{
+        height: 6rem;
+        width: 24vw;
+        font-weight: 500;
+        font-size: 14px;
+       
+    }
+   
+    .sidemenuItem{
+      height: 5rem;
+      width: 25vw;
+      border-bottom: 1px solid rgb(180, 174, 174);
+    }
+    
+    .heading{
+        font-size: 13px;
+        font-weight: 600;
+       
+    }
+    p{
+        text-align: left;
+        font-size: 12px;
+        margin-left: 0.2rem;
+        margin-top: -1rem;
+    }
+    .down{
+        color:  rgb(180, 174, 174);
+        cursor: pointer;
+    }
+    
+  
+}
