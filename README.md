@@ -1,3 +1,15 @@
+### Screenshots
+
+![image](https://github.com/tanyapanchal/Appscript-task--Tanya-/assets/92576367/98d256ec-3805-4865-bf16-ca800a244484)
+
+![image](https://github.com/tanyapanchal/Appscript-task--Tanya-/assets/92576367/5e121b17-5481-4c3f-880b-a6a2ab3f5b98)
+
+![image](https://github.com/tanyapanchal/Appscript-task--Tanya-/assets/92576367/0cf5046f-bebf-47b8-9730-43510339f55d)
+
+
+
+
+<hr/>
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
